@@ -1,2 +1,1 @@
-# logic-game
-Just drafts
+Just drafts, for personal use
